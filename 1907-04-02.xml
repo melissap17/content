@@ -830,8 +830,8 @@
                             Tripoli, Alexandretta, Mersina, <date when="1907-02-18">Febr. 18</date>;
                                 <date when="1907-03-04">March 4</date>, <date when="1907-03-18"
                                 >18</date> ; <date when="1907-04-01">April 1</date>. <date
-                                when="1907-04-15">15</date>, <date when="1904-04-29">29</date> ;
-                                <date when="1907-05-13">May 13</date>, <date when="1905-05-27"
+                                when="1907-04-15">15</date>, <date when="1907-04-29">29</date> ;
+                                <date when="1907-05-13">May 13</date>, <date when="1907-05-27"
                                 >27</date> ; <date when="1907-06-10">June 10</date>, <date
                                 when="1907-06-24">24</date>.</p>
                         <p><hi rend="bold">Syrian-Cyprus Line.</hi> Beyrout, Limassol, Larnaca,
@@ -839,7 +839,7 @@
                                 when="1907-03-12">March 12</date>, <date when="1907-03-26">26</date>
                             ; <date when="1907-04-09">April 9</date>. <date when="1907-04-23"
                                 >23</date> ; <date when="1907-05-07">May 7</date>, <date
-                                when="1905-05-21">21</date> ; <date when="1907-06-04">June 4</date>,
+                                when="1907-05-21">21</date> ; <date when="1907-06-04">June 4</date>,
                                 <date when="1907-06-18">18</date>.</p>
                         <p><hi rend="bold">Far East Lines.</hi> Departures from Port Said: To Suez,
                             Aden, Bombay, Colombo, Penang, Singapore, Hong-Kong, Shanghai, <hi
@@ -851,7 +851,7 @@
                                 when="1907-02-22">22 Febr.</date>; <date when="1907-03-07">7</date>,
                                 <date when="1907-03-23">23 March</date> ; <date when="1907-04-04"
                                 >4</date>, <date when="1907-04-23">23 April</date> ; <date
-                                when="1905-05-08">8 May</date> ; <date when="1907-06-08">8
+                                when="1907-05-08">8 May</date> ; <date when="1907-06-08">8
                                 June</date>.</p>
                         <p>To Suez, Aden, Karachi, Colombo, Madras, Rangoon, and <hi rend="italic"
                                 >Calcutta</hi> about <date when="1907-01-18">18 Jan.</date>, <date
@@ -1238,8 +1238,1213 @@
 
                 </div>
             </div>
-            <div type="page" n="2"> </div>
-            <div type="page" n="3"> </div>
+            <div type="page" n="2">
+                <cols n="3"/>
+                <cb n="1"/>
+                <div type="advert" xml:id="deg-ad-ric01">
+                    <head>Royal Insurance Coy</head>
+                    <p>FIRE AND LIFE.</p>
+                    <p>Largest Fire Office in the World.</p>
+                    <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
+                    <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
+                    <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
+                    <p>(ESTABLISHED 1782);</p>
+                    <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
+                    <p><measure type="indexNo">31-3-906</measure> FRED. OTT &amp; CO., Sub-Agents,
+                        Cairo.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-nbm01">
+                    <head>NORTH BRITISH &amp; MERCANTILE</head>
+                    <p>(FIRE) INSURANCE C0. ESTD> 1809. (LIFE)</p>
+                    <p>Total Funds exceed £17,000,000. </p>
+                    <p>Agents: PEEL &amp; CO., Alexandria.</p>
+                    <p><measure type="indexNo">20 51 31-12-907</measure></p>
+                </div>
+                <cols n="6"/>
+                <cb n="1"/>
+                <div type="advert" xml:id="deg-ad-whc02">
+                    <p> THE GREATEST care should be taken in what we eat and drink, yet we are too
+                        often indifferent and careless, notwithstanding health depends on what we
+                        eat and drink.</p>
+                    <p>In regard to drink nothing but the best should be taken. It costs no more
+                        than the indifferent quality, if people would only ask for what they know is
+                        the best Old Scotch Whisky is the most wholesome beverage yet known Mackie's
+                        Scotch Whisky gives an undoubted guarantee to those who are not judges of
+                        quality.</p>
+                    <p> CITY ANALYSTS LABORATORY, </p>
+                    <p> 138 BATH STREET, </p>
+                    <p> GLASC0W, 8th October, 1906. </p>
+                    <p>I hereby certify that I have taken samples of every vatting of <hi
+                            rend="bold">Mackie's White Horse Celler</hi> Blend of Scotch Whisky used
+                        in bottling during the month of September, and the results of my analyses
+                        indicate that it conforms to the standard for Pot Still Scotch Whisky set up
+                        in the London case. I am also of opinion that it is an old Whisky of
+                        excellent quality and flavour, which has been well matured in wood.</p>
+                    <p> JOHN CLARK, Ph.D., F.C.S., F.I.C., </p>
+                    <p><hi rend="italic">Public Analyst for the City of Glasgow and the Counties of
+                            Lanark, Renfrew, &amp;c.</hi></p>
+                    <p>N.B.—This Whisky is the same as supplied to the Red Cross Society, London, to
+                        the House of Lords and House of Commons.</p>
+                    <p> N. SPATHIS, Agent. </p>
+                    <p>CAIRO and ALEXANDRIA.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-adr02">
+                    <head>“AU DE ROUGE."</head>
+                    <p>GENERAL DRAPERY ETABLISHMENT.</p>
+                    <p>(Central Tramway Station), CAIRO.</p>
+                    <p><hi rend="bold">P. PLUNKETT, </hi></p>
+                    <p>(PROPRIETOR).</p>
+                    <p>DIRECT IMPORTER OF BRITISH AND IRISH TEXTILE MANUFACTURES.</p>
+                    <p><hi rend="italic">The following Departments are newly stocked with the
+                            seasons goods.</hi></p>
+                    <p>Ladies’ &amp; Children’s Dress Material </p>
+                    <p>Ladies’ &amp; Children’s Ready Made Articles</p>
+                    <table>
+                        <row>
+                            <cell>Embroidery.</cell>
+                            <cell>Millinery.</cell>
+                        </row>
+                        <row>
+                            <cell>Lace</cell>
+                            <cell>Corsets</cell>
+                        </row>
+                        <row>
+                            <cell>Haberdashery.</cell>
+                            <cell>Veiling.</cell>
+                        </row>
+                        <row>
+                            <cell>Hosiery.</cell>
+                            <cell>Gloves.</cell>
+                        </row>
+                        <row>
+                            <cell>Handkerchiefs.</cell>
+                            <cell>Sunshades.</cell>
+                        </row>
+                        <row>
+                            <cell>Ribbon.</cell>
+                            <cell>Chiffons.</cell>
+                        </row>
+                        <row>
+                            <cell>Silks</cell>
+                            <cell>Towels.</cell>
+                        </row>
+                    </table>
+                    <p>Men’s Irish Made Dress Shirts. </p>
+                    <p>Irish Linen Goods.</p>
+                    <p> </p>
+                </div>
+                <div type="advert" xml:id="deg-ad-twh02">
+                    <head>The Tosh Whisky</head>
+                    <p>Established 1726.</p>
+                    <p>Mackintosh &amp; C. Inverness.</p>
+                    <p>Agent: Ernest Thoron, Cairo &amp; Alexandria.</p>
+                    <p>General Depot John Ross &amp; Co. Alexandria</p>
+                    <p>Retailers. E. J. Fleurent, Square Halim Pacha, Cairo.</p>
+                    <p><measure type="indexNo">126625-30-4-907</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-tyr01">
+                    <head>Tyrol.</head>
+                    <p>(Weissenstein Castle 103 feet). First-class. Private Hotel, near
+                        Windisch-Matrei station, Lienz. ( Easily reached from Trieste or Venice. )
+                        Bracing air. Good mountaineering centre. Tennis. Fishing. Photos and
+                        Prospectuses at "Egyptian Gazette” office, Cairo. <measure type="indexNo"
+                            >29218-30A-4-907</measure></p>
+                </div>
+                <cb n="2"/>
+                <div type="advert" xml:id="say01">
+                    <head>SAYERS'</head>
+                    <p>Celbrated Cognac Brandies</p>
+                    <p>all guaranteed "Pure Grape"</p>
+                    <p>Agents Required</p>
+                    <p>Apply to</p>
+                    <p>Geo. Sayer &amp; Co.</p>
+                    <p>Cognac, (France.)</p>
+                    <p>London Prize Medal 1862.</p>
+                    <p>Highest Reward, Lower Canada, 1865.</p>
+                    <p>Hors Concours, Chicago, 1893</p>
+                    <p><measure type="indexNo">27442-3-907</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-cgg01">
+                    <head>CHAMPAGNE GEORGE GOULET.</head>
+                    <p>BY SPECIAL APPOINTMENT TO HIS MAJESTY THE KING.</p>
+                    <p>REIMS.</p>
+                    <p>SOLE AGENT IN EGYPT AND SUDAN,</p>
+                    <p>NICOLA G. SABBAG</p>
+                    <p>ALEXANDRIA, 2, Rue de la Gare du Caire</p>
+                    <p>Telephone; No. 559.</p>
+                    <p><measure type="indexNo">28398-31-8-07</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-ici01">
+                    <head>Icilma.</head>
+                    <p>ARABIC FOR "FLOWS THE WATER.”</p>
+                    <p>Icilma Fluor Cream is the only cream that contains no grease nor oil.
+                        Deliciously scented it cleanses the pores of the skin as nothing else can
+                        do, makes it pearly white, gives life to the tissues, elasticity to the
+                        muscles, and a deliciously cool feeling to the skin.</p>
+                    <p>Its unique properties are due to Icilma Natural Water so that it may well be
+                        called <hi>Nature’s Skin Food </hi> and the skin requires nothing else to
+                        give it the necessary vitality, to preserve it from sunburn, heat, cold or
+                        the effects of hard water, to prevent and cure the minor irritations due to
+                        overheated blood, and to preserve the youthful fresh look to which hot
+                        climates are so fatal.</p>
+                    <p>Invaluable for immediately curing mosquito and insect bites and for greatly
+                        preventing them.</p>
+                    <p>Depot for Egypt : J. McGregor, Chemist.</p>
+                    <p>Alexandria, Cairo, Ibrahimieh, Luxor, Icilma Co. Ltd., 142, Gray’s Inn Road,
+                        London, W. C.</p>
+                    <p><measure type="indexNo">27467</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-cpc01">
+                    <head>THE CROWN PRESERVED COAL CO. Ld</head>
+                    <p>Works and Shipping Ports:</p>
+                    <p>Liverpool, 1886. Jamaicao, 1891. Chicago, 1893. Highest Award.</p>
+                    <p>CARDIFF and Port Talbot.</p>
+                    <p>Manufactuerers and Shippers of "CROWN FUEL" used by Warships, and State and
+                        Colonial Railways.</p>
+                    <p>Tel. Address: "Crown, Cardiff"</p>
+                    <!-- illeg -->
+                    <p>Trade Mark</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-hob03">
+                    <head>Howie's Butter</head>
+                    <p>has again been awarded 1st Prize at the Khedivial Agricultural Show 1907.</p>
+                    <p>Deliveries Daily. – Posted all over Egypt.</p>
+                    <p><measure type="indexNo">24-5-907</measure> Address: – Shubra Road, Cairo.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-jma04">
+                    <p>Numbering Machines and Dating Stamps</p>
+                    <p>J. Margosches</p>
+                    <p>Cairo Bulac Road</p>
+                    <p>Stationary Engraving and Printing Office</p>
+                </div>
+                <cols n="3"/>
+                <cb n="2"/>
+                <div type="advert" xml:id="deg-ad-kbs01">
+                    <head>Draught Beer for the Home.</head>
+                    <p>KÜPPER'S BEER IN SIPHONS.</p>
+                    <p>5 Litre Siphon per P.T. 20.</p>
+                    <p>10 Litre Siphons per P.T. 36</p>
+                    <p>Delivered Free. </p>
+                    <p>SOLE AGENTS : Walker &amp; Meimarachi, Ltd. THE EGYPTIAN SUPPLY STORES.</p>
+                    <p>«Frisch vom Fass".</p>
+                    <p><measure type="indexNo">26898-30.4.907</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-hse01">
+                    <head>HOTEL SEMIRAMIS.</head>
+                    <p>Cairo's Finest Hotel, situated on the Nile Bank.</p>
+                    <p>OPEN IN SUMMER.</p>
+                    <p>BEAUTIFU ROOF GARDEN AND RESTAURANT.</p>
+                    <p>BUCHER DURRER, Proprietor.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-hbr02">
+                    <head>Hotel Beau-Rivage.</head>
+                    <p>Ramleh – most charming Seaside Residence in Egypt</p>
+                    <p>15 Minutes by Carriage or "Palais" tram from Sidi Gaber Station.</p>
+                    <p>First Class Family Hotel with Every Modern Comfort. Unique Situation on the
+                        Beach.</p>
+                    <p>Lovely Garden. Lawn Tennis. Large Terrace. Electric Light. Own springs.
+                        Perfect sanitary arrangements. Stables for horses and carriages.</p>
+                    <p>Moderate Charges. -- Special terms for Government Officials and Officers of
+                        the Army of Occupation. </p>
+                    <p>Telegraphic Address: BEAURIVAGE, Ramleh. – Telephone: 186, Ramleh. G. &amp;
+                        M. RUNCKEWITZ, Proprietor.</p>
+                    <p><measure type="indexNo">16-1-907</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-hbc01">
+                    <head>HOTEL BRISTOL, CAIRO.</head>
+                    <p>Full South, Electric Light, opposite Esbekieh Gardens, Large Verandah.</p>
+                    <p>Moderate Charges,</p>
+                    <p>CHAS. BAUER, Proprietor.</p>
+                    <p>The Hotel is beautifully fitted up and is in the most central part of Cairo.
+                        Terms for pension fare at the rate of ten shillings a day. Special terms for
+                        officers of Army of Occupation. <measure type="indexNo"
+                            >24832-31-10-906</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-gok01">
+                    <head>GORDON HOTEL, KHARTOUM.</head>
+                    <p>Open in November.</p>
+                    <p>Most comfortable and best appointed Hotel in town. Central situation,
+                        affording splendid view. No mosquitoes. Verandah music and varied
+                        amusements. Electric Light. Carriages at landing stage at touristsè
+                        disposal. Cellar renowned.</p>
+                    <p>BEST CUISINE. – OPEN ALL THE YEAR ROUND.</p>
+                    <p><measure type="indexNo">29113–31-3-907</measure></p>
+                </div>
+                <div type="advert" xml:id="lar01">
+                    <p>PREVENTS THE ATTACK OF MOSQUITOES.</p>
+                    <p>Beetham's "Larola"</p>
+                    <p>Will entirely Remove all ROUGHNESS, REDNESS, HEAT, IRRITATION, &amp;c., in a
+                        very short time. IT KEEPS THE SKIN SOFT, SMOOTH, AND WHITE at all seasons,
+                        and is DELIGHTFULLY COOLING and REFRESHING. </p>
+                    <p>Agent: MAX FISCHER, CAIRO and ALEXANDRIA. </p>
+                    <p>Sole Makers M. BEETHAM &amp; SON, CHELTENHAM, ENGLAND</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-hct01">
+                    <head>HIGH-CLASS TOOLS</head>
+                    <p>For Miners, Contractors, and Agriculturists.</p>
+                    <p>The “UNIVERSAL” PICKS.</p>
+                    <p>Picks, Spades, Shovels, Forks, Axes, Hoes, Fasses, Hammers, Wedges, Crowbars,
+                        etc. </p>
+                    <p> HAND and POWER BORING MACHINES for Rock and Coal.</p>
+                    <p>"HARDY" DRILL STEEL.</p>
+                    <p>Hickory Handles.</p>
+                    <p>THE HARDY PATENT PICK CO., LTD., SHEFFIELD, ENGLAND.</p>
+                </div>
+                <cols n="6"/>
+                <cb n="3"/>
+                <div type="advert" xml:id="deg-ad-tas02">
+                    <head> CARPETS. </head>
+                    <p>TURKEY PERSIA</p>
+                    <p>T. A.SPARTALI &amp; Co</p>
+                    <p>Largest manufacturers in the world of Oriental carpets, all hand made </p>
+                    <p>Pure vegetable dyes </p>
+                    <p>Large exporters of old antique carpets</p>
+                    <p> Head Office In Smyrna </p>
+                    <p>ESTABLISHED IN 1842.</p>
+                    <p>BRANCHES.</p>
+                    <p>CAIRO Savoy Hotel Corner </p>
+                    <p>ALEXANDRIA 11 Rue Porte Rosett</p>
+                    <p>LONDON 3 and 14 Camomile Street </p>
+                    <p>PARIS 5 Rue Grétry.</p>
+                    <p>Looms and Dyeing Establishments at all Carpet Centres</p>
+                    <p>10,000 Looms — 40,000 Weavers. </p>
+                    <p>Orders accepted on any size and colour.</p>
+                    <p>RICH COLLECTION OF DESIGNS ORIENTAL AND OTHERS</p>
+                    <p><measure type="indexNo">29041-9-6-907</measure></p>
+                </div>
+                <div type="advert" xml:id="deg-ad-bsl01">
+                    <head>BERLITZ SCHOOLS OF LANGUAGES</head>
+                    <p>325 BRANCHES.</p>
+                    <p>French, German, Italian, Greek, Arabic, etc.</p>
+                    <p>Private Lessons, Residence Lessons, taught by Native Masters </p>
+                </div>
+                <cb n="4"/>
+                <div type="item" element="comingEvents">
+                    <head>Calendar of Coming Events</head>
+                    <table cols="2" xml:id="deg-ta-coce01">
+                        <row role="label">
+                            <cell cols="2">ALEXANDRIA.</cell>
+                        </row>
+                        <row>
+                            <cell>April.</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Tues. 2</cell>
+                            <cell> Zizinia Theatre. M. Feraudy. 9. </cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Alhambra. Greek Dramatic Company om <hi rend="italic"
+                                    >Paraitra</hi>. 9.</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Tour Eiffel Music Hall. Varieties. 9. </cell>
+                        </row>
+                        <row>
+                            <cell>Thurs. 4</cell>
+                            <cell>New Khedivial Hotel. Concert by Misses Vera and Nadesda Chernetzka
+                                9.30.</cell>
+                        </row>
+                        <row>
+                            <cell>Fri. 5 </cell>
+                            <cell>
+                                <p>Duke of Connaught inspects R. Dublin Fusiliers. Presentation of
+                                    Colours on Polo ground at 10.30. </p>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Colours on Polo Ground at 10.30</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>33rd Annual Meeting Alexandria Amateur Athletic Club 1.30
+                                p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Sat. 6</cell>
+                            <cell>A.S.C Skye Meeting, 3.30.</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Mustapha Range. British Rifle Club Rapid Firing competition and
+                                practice. 2.30.</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>New Khedivial Hotel. Mme. Heincourt’s Concert. 9. </cell>
+                        </row>
+                        <row>
+                            <cell>Wed. 10</cell>
+                            <cell> Zizinia Theatre. Performance on belief of the Alexandria
+                                Foundlings’ Charity. 9 30 </cell>
+                        </row>
+
+                        <row>
+                            <cell>Sat. 13 </cell>
+                            <cell>A.S O. grounds. Horse Show. 9.</cell>
+                        </row>
+                        <row>
+                            <cell>Sat. 20 </cell>
+                            <cell>A.H S. Flower Show.</cell>
+                        </row>
+                        <row>
+                            <cell>Sun. 21</cell>
+                            <cell>A.H S. Flower Show. </cell>
+                        </row>
+                        <row role="label">
+                            <cell cols="2">CAIRO</cell>
+                        </row>
+                        <row>
+                            <cell>April. </cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Tues. 2</cell>
+                            <cell>
+                                <p>Abbassieh. Review of Troops by Duke of Connaught. 11</p>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Esbekieh Gardens Theatre. 9.</cell>
+                        </row>
+                        <row>
+                            <cell>Thurs. 4 </cell>
+                            <cell>Abbassieh. Field Day.</cell>
+                        </row>
+                        <row>
+                            <cell> Sat. 6 </cell>
+                            <cell>Shepheard’s Hotel. Military Band. 4-6.</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Mena House Scotch Ladies’ Orchestra. Afternoon.</cell>
+                        </row>
+                        <row>
+                            <cell>Sun. 7</cell>
+                            <cell>Zoological Gardens. Ghizeh Boys’ Band. Afternoon.</cell>
+                        </row>
+                    </table>
+                </div>
+                <cb n="5"/>
+                <div type="item" scope="newspaper" xml:id="deg-el-egsa02">
+                    <head>THE EGYPTIAN GAZETTE.</head>
+                    <p>SUBSCRIPTIONS.—Alexandria, Cairo, and the Interior of Egypt (including
+                        delivery in Alexandria or postage to subscriber’s address) P.T. 231½ per
+                        annum, P.T. 116 for six months, P.T. 80 for three months. To other countries
+                        in the Postal Union P.T. 273 (£2.16s.) per annum. Six months P.T. 136½
+                        (£1.8s.), three months P.T. 92 (£0.19s.) </p>
+                    <p>N.B.—Subscriptions commence from the 1st or 16th of any month. </p>
+                    <p>ADVERTISEMENTS.—P.T. 4 per line. Minimum charge P.T. 20. Births, Marriages,
+                        or Deaths, not exceeding three lines, P.T. 20. Every additional line P.T.
+                        10. Notices in news column P.T. 20 per line. Contracts entered into for
+                        standing advertisements. </p>
+                    <p>ADVERTISEMENTS and SUBSCRIPTIONS are due in advance. P.O. Orders and Cheques
+                        to be made payable to the Editor and Manager, Rowland Snelling, Alexandria. </p>
+                    <p>London Correspondent's Offices : 36, New Broad-street. B.C. </p>
+                    <p>Cairo Offices.– Telegraph Building Boulac Road (opposite All Saints Church).
+                        P. O. B. No. 8. Telephone No. 878. </p>
+                </div>
+                <div type="item" scope="newspaper" xml:id="deg-el-egpi01">
+                    <p>The Egyptian Gazette</p>
+                    <p>The English Daily Newspaper. </p>
+                    <p>Established 1880.</p>
+                    <p>Editor and Manager - - R. Snelling.</p>
+                    <p>Price: One Piastre Tariff.</p>
+                    <p><date when="1907-04-02">TUESDAY, APRIL 2, 1907</date>.</p>
+                </div>
+
+
+                <div type="item">
+                    <head>THE KHEDIVE AND THE “TIMES.” </head>
+                    <p>The following are the criticisms of the “ Times ” on the recent declarations
+                        of the Khedive :—.</p>
+                    <p>— There was a time, only a few years ago, when such an interview as that
+                        which the Khedive has granted to a French journalist, and our Paris
+                        Correspondent reports to-day, would have given occasion for grave
+                        uneasiness. That we can now afford to regard it as nothing more than an
+                        unpleasant reminder of the Khedive’s usual attitude towards this country is
+                        a sign of the increased strength of our position in Egypt, and still more of
+                        our cordial relations with the other Power chiefly interested in Northern
+                        Africa. The whole character of the Khedive’s remarks invites this
+                        reflection, though it shows only too plainly that the change is none of his
+                        seeking. But even if the tone of the interview did not suggest this contrast
+                        between the present and the past, His Highness has added a curious remark at
+                        the end which would make it impossible for us to forget the fact. He gave
+                        his interlocutor, the special correspondent of the “Temps,” a greeting to
+                        the French people with these enigmatic words:—“ We do not forget what they
+                        have been for us, and we are very fond of them “ <hi rend="italic">all the
+                            same</hi>. ” It is the French journalist who italicized the words which
+                        our Paris Correspondent has reported. If they mean anything, there is only
+                        one meaning they can bear. The Khedive dates the strain which France has put
+                        upon his friendship from her conclusion of the entente with us. Provisions
+                        about Egypt, like provisions about Morocco, formed an integral part of the
+                        agreement, and it is as a result of them, and of their loyal observance by
+                        France, that we have been able to carry on our salutary work in Egypt with
+                        no fear of vexatious obstruction. To any one who protests his devotion to
+                        his country’s welfare so strongly as the Khedive this ought to be a matter
+                        for genuine satisfaction. But it is evidently to the period before the
+                        entente that His Highness’s pleasant recollections are confined—a period
+                        when French interests were inconstant antagonism to our own, and when the
+                        progress and security of Egypt were exposed to continual risk on account of
+                        this friction. We do not suppose for a moment that the French people will
+                        take the Khedive's view of recent history. If they continue in friendly
+                        intercourse with Egypt, we shall be as gratified as His Highness, but we do
+                        not think they will show a disposition to return to the attitude that
+                        preceded the entente. The mutual benefits of the entente, moral and
+                        material, are too well realized, the solidarity of our interests in Northern
+                        Africa is too plain, for either nation to be willing to disturb it at the
+                        prompting of an interested third party.</p>
+                    <p>The substance of the Khedive’s remarks is, we are sorry to say, in only too
+                        faithful agreement with his final innuendo. No one ignorant of the modern
+                        history of Egypt, and going to this conversation for enlightenment, would
+                        guess even remotely what its course had been. He would imagine the Egyptians
+                        to be a people who had worked out their own salvation. He would suppose this
+                        to have been done under the beneficent initiative of Abbas II.—a
+                        much-suffering ruler who, however, even in the darkest moments never relaxed
+                        his ungrudging efforts for his people’s good. That the country had been
+                        brought out of distracted anarchy by the tutelage of another Power ; that
+                        this Power had preserved both the dynasty and the safety of its heritage —
+                        all this would never dawn on one who took his history from the Khedive. Yet
+                        the father of Abbas II. owed his retention of the throne to us. His Highness
+                        himself owes his personal security and the integrity of his dominions to the
+                            sup<cb n="6"/>port of British power. The material develo­ment of his
+                        country, on which he dwells with complacency, is due similarly to Great
+                        Britain ; for, as a French writer pointed out in the <hi rend="italic"
+                            >Depeche Coloniale</hi> the other day, it was she who inspired capital
+                        with confidence and attracted it to Egypt, by consolidating the political
+                        situation, establishing order in the administration and finances, and
+                        undertaking the great public works in aid of commerce and agriculture. At
+                        one or two points of the interview, it is true, the Khedive tries to
+                        reassure opinion. He declares emphatically that it is wrong to assume that
+                        the “national” claims are anti-foreign and fanatic. We would gladly accept
+                        that assurance, but we cannot forget that it is precisely the same as those
+                        lavished by the notorious agitator Mustapha Pasha Kamel, whose national
+                        patriotism is of an unmistakably anti-British brand. Though His Highness
+                        deprecates the idea that he could possibly become a despot, it would not be
+                        too much to say that, in the necessarily restricted sphere where he now
+                        wields personal authority, it bears every mark of arbitrariness. Nor can a
+                        single-minded devotion to progress be seriously claimed by a ruler who has
+                        stood aside, often ostentatiously, from our efforts to benefit Egypt, and
+                        who allows favouritism and corruption to be rife in the public departments
+                        which still come within his influence.</p>
+                    <p>The "Times" concludes with the following comments on the letter of Sir
+                        Christopher Furness, of which a telegraphic summary has appeared in a former
+                        issue.</p>
+                    <p>A truer picture of the real Egypt, and of the men who have made it, is to be
+                        gathered from the instructive letter by Sir Christopher Furness M. P, He has
+                        returned from a stay in Egypt, “ where the extraordinary results of British
+                        administrative genius, ’ as he says, “ compel admiration.” But having enough
+                        experience of men and cities to know that a short tour in another land does
+                        not qualify the visitor to say the last word about it, he tells us that he
+                        would not have raised his protest against the policy pursued by a fellow
+                        Liberal, Mr. J. M. Robertson, M.P., if he did not know that Mr. Robertson’s
+                        acquaintance with Egypt were no greater than his own. But Mr. Robertson, and
+                        other Englishmen who like traducing the work of their country abroad, never
+                        allow the scantiness of their knowledge to stop them. Where their aspersions
+                        come into touch with facts they can generally be refuted without much
+                        trouble, as Sir Christopher Furness refutes them in a single particular by
+                        his effective account of the reform of justice under Lord Cromer’s
+                        administration. Nor do the traducers carry enough weight at home for
+                        sensible people to pay much attention to them. But it is otherwise among the
+                        native populations with whom they are constantly making mischief, and to the
+                        credulous, excitable Egyptian public it may seem a matter of real
+                        significance that letters by Mr. Robertson, a British member of Parliament
+                        and one of the Government’s supporters, should appear in the Cairo
+                        “Standard,” Mustapha Kamel’s Nationalist organ. As regards British policy it
+                        is of no significance, unless it be significant that, after the severe
+                        handling he received from Sir Edward Grey last summer, Mr. Robertson should
+                        have thought it safer to transfer his reflections from the House of Commons
+                        to a Cairene journal. But native readers do not appreciate this, and all the
+                        heavier, therefore, is the responsibility of those Europeans who seek to
+                        play on their ignorance and fanaticism. Influences of this kind, whether
+                        consciously or unconsciously exerted, are not confined to Egypt. The French,
+                        who are now deploring the brutal assasination of a fellow-countryman in
+                        Morocco, are inclined to read in this regrettable event another sign of the
+                        mischievous effect which political intrigues in Europe have had on the
+                        receptive Moorish mind.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-pos02">
+                    <head>P &amp; O WEEKLY MAIL and PASSENGER SERVICES P &amp; O</head>
+                    <p>EGYPT to BRINDISI, MARSEILLES &amp; LONDON.</p>
+                    <p>(Special connecting Train Services between Brindisi and London, and between
+                        Marseilles and London.)</p>
+                    <p>PORT SAID to LONDON via BRINDISI in 4 1/2Days</p>
+                    <p>PORT SAID to LONDON via MARSEILLES 5 1/2 Days </p>
+                    <p>PORT SAID to LONDON by SEA 12 Days </p>
+                    <p>Passengers can embark on Sunday evening in the Brindisi steamer, which is
+                        timed to leave Port Said on Monday morning immediately after arrival of the
+                        Homeward Indian Mail.</p>
+                    <p>The Marseilles London Steamers sail after the arrival of the 11 a.m train
+                        from Cairo on Mondays.</p>
+                    <p>25 per Cent. Abatement off Homeward Sea Fare to passengers making return
+                        Journey within 12 months.</p>
+                    <table>
+                        <row>
+                            <cell>To ADEN ...</cell>
+                            <cell rows="3">Weekly on Wednesday </cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>TO BOMBAY ...</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>To CALCUTTA ... Via Bombay</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>TO CEYLON ...</cell>
+                            <cell rows="5">Fortnightly on Wednesday</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>To STRAITS ...</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>To CHINA ...</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>To JAPAN ...</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                        <row>
+                            <cell>To AUSTRALIA ...</cell>
+                            <cell>from SUEZ</cell>
+                        </row>
+                    </table>
+                    <p>Particulars of additional departures by Intermediate Steamers at reduced
+                        fares, to Malta, Calcutta, Straits, China, Japan, and London, may be had on
+                        application. </p>
+                    <p>Berths may be secured and all information obtained from</p>
+                    <p>THOS. COOK A SON (EGYPT), LTD. ... CAIRO.</p>
+                    <p>G. ROYLE .. ... PORT SAID,</p>
+                    <p>HASELDEN &amp; Co. ... .. ... ...ALEXANDRIA.</p>
+                    <p>or from the Company's superintendent in Egypt,</p>
+                    <p>F. G. DAVIDSON, Suez.</p>
+                </div>
+
+                <div type="advert" xml:id="deg-ad-cah03">
+                    <head>CARLTON HOTEL</head>
+                    <p>Bulkeley (near Alexandria) half way to San Stefano</p>
+                    <p>Ramleh's Fashionable Hotel.</p>
+                    <p>Full Pension P.T. 50 a day with Monthly Terms</p>
+                    <p>Visitors from Cairo alight at Sidi Gaber.</p>
+                    <p>Reclame Lunch, P.T. 16. – Dinner, P.T. 20.</p>
+                    <p>Proprietor, C. AQUILINA, (Late of Thos Cook &amp; Sons)</p>
+                </div>
+            </div>
+            <div type="page" n="3">
+                <cb n="1"/>
+                <div type="section" element="local">
+                    <head>LOCAL AND GENERAL.</head>
+                    <div type="item">
+                        <p>Luxor Winter Palace</p>
+                        <p>In consequence of the Luxor Winter Palace being still half full, the
+                            management have decided not to close it until the 15th inst.</p>
+                    </div>
+                    <div type="item">
+                        <p>H.M.S. Minerva.</p>
+                        <p>H.M.S Minerva is due at Port Said from Malta to-day and it is expected
+                            that she will make a stay of some six months in Egyptian waters.</p>
+                    </div>
+                    <div type="item">
+                        <p>Death Sentence.</p>
+                        <p>The execution of Abd el Mewla Mohamed, found guilty of wilful murder,
+                            will take place at Alexandria prison at ten o’clock to-morrow
+                            morning.</p>
+                    </div>
+                    <div type="item">
+                        <p>Rabies In Alexandria,</p>
+                        <p>The Alexandria Municipality have given notice that in consequence of
+                            cases of rabies having recently occurred, mainly at Ramleh, all dogs
+                            must not only carry their registration number but must also either be
+                            muzzled or led on a leash.</p>
+                    </div>
+                    <div type="item">
+                        <p>Salaries of Tribunal Officials.</p>
+                        <p>The commission appointed by the Ministry of Justice to study the question
+                            of raising the salaries of the staff of the Native Tribunals and
+                            Mehkemehs Sharieh, has concluded its work, and will submit its report
+                            shortly to the Ministry of Finance.</p>
+                    </div>
+                    <div type="item">
+                        <p>The Mosque Students.</p>
+                        <p>The grand sheikh of the Ulemas at Alexandria is undertaking the provision
+                            of respectable lodgings for the poorer students of the mosques of
+                            Alexandria, and each of these will be supplied with a free bed. Two
+                            Alexandrian notables have subscribed forty beds.</p>
+                    </div>
+                    <div type="item">
+                        <p>Mr. Moore Acquitted.</p>
+                        <p>The official inquiry into the Ministry of Public Works scandal has now
+                            been closed. Mr. Moore was discharged from the suspicion of corruption
+                            imputed to him, but Ahmed Effendi El-Sarfani and another official of
+                            that ministry were found guilty. They were therefore arrested and will
+                            be brought shortly before the court for trial.</p>
+                    </div>
+                    <div type="item">
+                        <p>Wakfs Supreme Council.</p>
+                        <p>The Supreme Council of Wakfs which met yesterday in Cairo, under the
+                            presidency of Adli Pasha Yaghen, has decided to grant the Mohamed Aly
+                            and the Damanhour Industrial Schools L.E. 1,000 and LE. 500,
+                            respectively, as annual graints-in-aid. The Council has also decided to
+                            appoint a native physician to accompany pilgrims to Mecca in future.</p>
+                    </div>
+                    <div type="item">
+                        <p>Train de Luxe Collision.</p>
+                        <p>We are officially informed that early yesterday morning the train de luxe
+                            running from Luxor to Cairo was wrongly admitted into a siding at
+                            Manfeloot station and collided with a goods train standing in the
+                            siding. None of the passengers were hurt, but the brakesman of the train
+                            de luxe sustained slight injury. The traffic was considerably delayed by
+                            the accident.</p>
+                    </div>
+                    <div type="item">
+                        <p>Egypt's Trade</p>
+                        <p>Prof Arminjon, who recently issued a book on the Mohammedan Universities
+                            of Cairo, has now published (through the house of Larose of Paris, in
+                            the transactions of a publication society which bears the name of M
+                            Sirey <hi rend="italic">Le commerce extérieur de l'Egypte</hi>. It is to
+                            be commended to all who are interested in trade statistics. The newest
+                            point in the thin volume is the proof given that the construction of the
+                            Suez Canal was fatal to a large Egyptian transport, entrepôt, and
+                            re-exportation business.</p>
+                    </div>
+                    <div type="item">
+                        <p>The Russian Concert</p>
+                        <p>The concert given yesterday afternoon at the New Khedivial Hotel,
+                            Alexandria, by the celebrated Russian artists, Miss Vera and Miss
+                            Nadesda Chernetzka, was a great success, and all those who were
+                            fortunate enough to be present were delighted with the magnificent
+                            execution and technique of these Russian ladies. The programme included
+                            some of the choicest works of modern composers. Miss Nadesda Cberuetzka
+                            is a splendid contralto and her renderings from Glinka’s “La Vie pour le
+                            Czar,” Saint Saëns’ ‘Samson et Delila,” the “Habauera” in “Carmen,” and
+                            “Les Cloches” of Taskin were enthusiastically applauded. Miss Vera
+                            Chernetzka’s, the pianist, execution of Back’s Orgue Toccata et Fugue D.
+                            Moll (Tansig) and Tschakowski’s paraphrase were especially noteworthy.
+                            These ladies will give a second concert at the New Khedivial Hotel,.on
+                            Thursday next at 9.30 p.m.</p>
+                    </div>
+                    <div type="item">
+                        <p>Savoy Palace Motel.</p>
+                        <p>The latest arrivals at the Savoy Palace Hotel, Alexandria, include: Mr.
+                            Philon, Diplomatic Agent of Greece, Mr. and Mrs. Filus, Mr Basil
+                            Roncavichnicow, Attaché at the Russian Embassy in Rome, Mr. Belkingstone
+                            and the Misses Broderick, New York, Mrs. Dumont, Paris, Viscount de
+                            Fontarce, Mr. E. Fitz-Gerald, Mr Robert Scott, M. Rusell van Derlipp and
+                            family, Chicago, Dr. M. Planer, Budapest, Mr. G Beck and family, Boston,
+                            Mr. B. L. Mills, Mohamed Sourour Bey, Mr. and Mrs. A. Anderson,
+                            Philadelphia, Mr G. Gauthier, Mr. Farid Bey, Mr. P. Mouton, Hussein
+                            Pacha, Mr. Ch. Verbeke, Mr. A. Verbeke, Mr. and Mrs. Burr, New York, Dr.
+                            Pamaron, Sélim Sednaoui Bey, Mr. D. Philipposion and family, Mr. and Mrs
+                            Landsberg, New York, Mr. J D William, Mouheb Pacha, Mr Sussking, Mr. G
+                            R. Stansfeld, London, Major Waller, Youssef Bey Hafez, Mr. Montagu
+                            Sammers, Mr. Reeves, Mr. Laserson, Mr. Damon, Paris, Mr. R. Hooper, Mr.
+                            F. Leveaux, Mr. Thos Collier, Mr Henderson and family, London,, Mr. J.
+                            Smith, Mr F. R. Harty, Boston, Mr. Walter Jones, Mr. Bonninger and
+                            family, Vienna, Kamal Bey.</p>
+                    </div>
+                </div>
+                <cb n="2"/>
+                <div type="item">
+                    <head>LORD CROMER. SITUATION IN EGYPT. IMPORTANT INTERVIEW.</head>
+                    <byline>(Gazette’s Special Service.)</byline>
+                    <dateline>London, Tuesday</dateline>
+                    <p>The account of an important interview with Lord Cromer appears in the
+                        “Temps.” The interview was granted to M. René Puaux and took place recently
+                        at Cairo. His Lordship expressed the great satisfaction which he felt at the
+                        recent revival of French interest in Egypt. He always had the interests of
+                        the Anglo-French “entente cordiale” at heart and the agreement between the
+                        two countries was felt in Egypt as making for the policy of progress which
+                        he is pursuing.</p>
+                    <p>Lord Cromer then went on to speak of his report on Egypt for 1906. He
+                        declared that he again treats of the subject of the Capitulations in this
+                        report but does not deal with them with a view to their suppression but with
+                        the object of adapting them to the modern conditions prevailing in Egypt by
+                        transferring their legal functions to Great Britain.</p>
+                    <p>Lord Cromer made some important observations on one of the developments of
+                        the extraordinary financial and commercial prosperity of Egypt, and
+                        expressed some anxiety about the great increase in the numbers of the new
+                        companies, which had been floated of late on the local market. M René Puaux
+                        in commenting on their animadversions of his Lordship added that the
+                        slightly pessimistic tone in Lord Cromer’s allusions to this subject were
+                        easily comprehensible as coming from a man of such proverbial integrity, as
+                        was acknowledged even by his adversaries, and were inspired by a dislike of
+                        the profits not produced by work.</p>
+                </div>
+                <div type="item">
+                    <head>THE DUKE OF CONNAUGHT.</head>
+                    <p>At eleven o’clock yesterday morning H.R.H the Duke of Connaught paid a visit
+                        to H.H. the Khedive at Abdin Palace, and shortly after midday the Khedive
+                        returned the Duke’s visit at the British Agency.</p>
+                    <p>In the afternoon His Royal Highness, accompanied by Major-General Sir John
+                        Maxwell, and Mr. Myles Ponsonby, visited Count von Moers at the Semiramis
+                        Hotel.</p>
+                </div>
+                <div type="item" element="army">
+                    <head>EGYPTIAN ARMY.</head>
+                    <p>We understand that El-Miralai Asser Bey will be promoted to the rank of Lewa
+                        and appointed Adjutant General of the Egyptian Army. The appointment of such
+                        a capable and popular officer to this high post will, we are sure, be
+                        received with great satisfaction throughout all the Army.</p>
+                    <p>We sincerely congratulate El-Lewa Asser Pasha upon his well deserved
+                        promotion.</p>
+                    <p>The following transfers and appointments have been approved :—</p>
+                    <p>El Miralai J. J. Asser Bey, Station Commandant, Khartoum to be Adjutant
+                        General.</p>
+                    <p>El Kaimakam W. H. Drake Bey, Deputy Assistant Adjutant General, to be
+                        Assistant Adjutant General.</p>
+                    <p>El Kaimakam C. H. Townsend Bey, Assistant Adjutant General, to Sudan
+                        Government.</p>
+                    <p>El Kaimakam G. F. Clayton Bey, Sudan Government, to the Army, for duty on His
+                        Excellency the Sirdar’s Staff.</p>
+                    <p>El Bimbashi W. J. St J. Aarvey, 9th Sudanese, to be Deputy Assistant Adjutant
+                        General.</p>
+                </div>
+                <div type="item" element="bulletinBourse">
+                    <head>BULLETIN DE LA BOURSE</head>
+                    <p>(Aujourd’hui à midi et demie.)</p>
+                    <p>La liquidation n'étant pas terminée, des réalisations forcées font fléchir
+                        encore le cours de plusieurs de nos valeurs les plus en vue ainsi le
+                        Comptoir, la Building Lands et la Behera perdent respectivement 7 16, 3 8,
+                        et 5/8.</p>
+                    <p>En baisse également de 1/16 la Ramleh et la Delta Light. La Nungovich recule
+                        d‘une demi livre. Les Estates rétrogradent à 1 3/4.</p>
+                    <p>L’Egyptian Construction et l’Investment à 31 32 la Salt &amp; Soda à 9/9 et
+                        la United Land à 1 1/32.</p>
+                    <p>De nombreuses transactions ont eu lieu en Agricole, National et Union
+                        foncière. En hausse de 1 16 l’Urbaine à 7 3/16 et les Ritz à 3 5/16. La
+                        tendance reste, indécise pour le moment.</p>
+                    <p>Ce matin à 11 heures a eu lieu la vente aux enchères de 60 lots turcs
+                        ordonnée par le Tribunal Mixte de 1ère Instance d’Alexandrie au préjudice de
+                        la faillite S. Livanos. Le prix réalisé n’a té que de fr. 148,50. par
+                        titre.</p>
+                    <p>Une maison de courtage de notre ville vient de cesser ses paiments. Son
+                        passif est peu important. L’Association des courtiers en valeurs a décidé
+                        que toutes les positions en suspens avec la dite agence seront compensées
+                        aux prix acheteurs de la clôture de Jeudi dernier soit le 28 Mars 1907. Pour
+                        les valeurs qui ne sont pas cotées à Alexandrie, les compensations ont lieu
+                        aux cours suivants : New Egyptien 23, L vico 1 5/16, Lunghis 1 3/16, Karam
+                        13/16.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-fpc01">
+                    <p>MILITARY TAILORS.</p>
+                    <p>EGYPTIAN ARMY OUTFITS A SPECIALITY.</p>
+                    <p>RIDING BREECHES.</p>
+                    <p>F. Phillips &amp; Co. </p>
+                    <p>LADIES’ TAILORS.</p>
+                    <p>(high class work only).</p>
+                    <p>CAIRO &amp; ALEXANDRIA.</p>
+                    <p><measure type="indexNo">28057-31-5-07</measure></p>
+                </div>
+                <cb n="3"/>
+                <div type="item">
+                    <head>EGYPTIAN NATIONALISM. THE KHEDIVE’S DECLARATIONS.</head>
+                    <p>The declarations of the Khedive to M. Puaux are the subject of considerable
+                        comment in the local Press and it is assumed that the statements made by His
+                        Highneea on the subject of the national claims show that he has taken his
+                        position in the Egyptian Nationalist Party. The frankness, with which the
+                        Khedive specially alluded to the national claims should not be received with
+                        any uneasiness for it has long been known how much His Highness sympathised
+                        with that section of the natives, who are designated by the vague term “The
+                        Nationalist Party.” On the contrary the fact that his Highness has emerged
+                        from his obscurity and publicly allowed his political ideals to be
+                        proclaimed to the world should do much to make the situation in Egypt
+                        clearer, especially in England.</p>
+                    <p>La “Reforme” lays special stress on the Khedive’s statements on the subject
+                        of “révendications nationales” and remarks “To-day the Khedive declares
+                        himself as the guarantor before the world of the sentiments of his subjects,
+                        and he defines the character of the national claims. It is in this phrase
+                        that all the importance of the interview granted to the distinguished
+                        representative of the “Temps” lies.”</p>
+                    <p>The “Progres” states that the remarks of the Khedive show that his Highness
+                        has taken his place in the ranks of the Nationalist Party. “None of the
+                        ‘national claims’ made by the “Lewa” and repeated by the National Assembly
+                        have been forgotten by the Khedive. The satisfaction of the intellectual and
+                        moral needs of the people, the co-operation of the nation with the
+                        Sovereign, all such statements form a fitting pendant in the interview with
+                        his denial, as to the existence of fanaticism, and his silence in regard to
+                        the Occupation. However, the declarations of the Khedive have one merit,
+                        namely in the fact that they have rendered all equivocation impossible. The
+                        Khedive declared that he never disdained advice. But this announcement is
+                        historically incorrect. However, if it shows a new disposition on the part
+                        of the Khedive the announcement is most opportune, for the Khedive never
+                        needed good advice more than he does now. The best advice to give him is to
+                        recall to his mind the history of the Princes, who are his immediate
+                        predecessors. He will see that the Khedive Ismail lost his throne because he
+                        fraternised with the National Party and that the Khedive Tewfik owed his
+                        throne to the Occupation, which crushed that party. The connection of the
+                        Khediviate with the National Party has always been fatal.”</p>
+                    <p>“Al Moayad” remarks: We have conned his Highness's declarations over and over
+                        again and cannot find a single word which his Highness should have left
+                        unsaid. As a native of high rank, as the ruler of Egypt, and as a Moslem
+                        Emir, who knows his religion and the circumstances of other religions in the
+                        East and West, the Khedive had the right to say every word of the
+                        declaration in question.</p>
+                    <p>“Al Gerida” remarks :— “What in the Khedive’s declarations can have offended
+                        the British? Is it because he did not give high praise to the Government ?
+                        The last sentences of his Highness’s statements (“I have never opposed
+                        measures which I thought to be useful to Egypt I have never disdained
+                        advice.”) can only mean that the prosperity of the country, to which he
+                        referred, was the fruit of the works of the Government, and necessarily
+                        through the advice of the occupants.”</p>
+                    <p>“Al Minbar” says:– “As we have already said the statements of the Khedive are
+                        simple and contain nothing extraordinary. Those who endeavour to associate
+                        his Highness with any political party are only the <hi rend="italic"
+                            >dukhala</hi> enemies of Egypt and the Egyptians, and also of the
+                        British. On reading the “Times” comments we could find nothing worthy of
+                        translation. Weakness and perplexity are evident in that paper's
+                        article”.</p>
+                </div>
+                <div type="item">
+                    <head>ALEXANDRIA FLOWER SHOW.</head>
+                    <p>H.H. the Khedive has consented to open the Alexandria Horticultural Flower
+                        Show at San Stefano on the 20th inst. at 3 p.m.</p>
+                </div>
+                <div type="item" element="steamerMovements">
+                    <head>STEAMER MOVEMENTS.</head>
+                    <p>The Khedivial mail steamship Assouan will leave Alexandria at 4 p.m. on
+                        Saturday and Port-Said at 4 p.m. on Sunday for Jaffa, Caiffa, Beyrouth,
+                        Tripoli, Mersina, and Alexandretta.</p>
+                    <p> The Moss liner Menepthah arrived yesterday noon from Liverpool via
+                        Gibraltar, Algiers and Malta, with passengers, mails and general cargo.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-lau01">
+                    <head>The world renowned Laurens Cigarettes.</head>
+                    <p>“LE KHEDIVE” Company</p>
+                    <p>can be obtained in their new artistic shop, Kasr-el-Nil street, opposite the
+                        Savoy Hotel.</p>
+                    <p>Also the best Havana Cigars specially selected for English and American
+                        connoisseurs, and sold at New York and London prices.</p>
+                    <p>The company are purveyors by appointment since many years to the Rgies of
+                        France, Austria, Hungary, Italy, Spain, Tunis, etc., to their Majesties the
+                        Kings of Italy and Spain, to the Household of H H. the Khedive, to H. R. H.
+                        Prince Charles of Bavaria, etc.,etc.</p>
+                    <p>London Address :— 17 Hanover Square W. Agencies and depots in all parts of
+                        the world.</p>
+                </div>
+                <cb n="4"/>
+                <div type="item">
+                    <head>OBITUARY.</head>
+                    <head type="sub">MR. E. C. HOGG.</head>
+                    <p>We regret to announce the death of Mr. E. C. Hogg, which took place this
+                        morning at his Cairo residence at Ghezireh. He was recently attacked by
+                        pneumonia and his fragile constitution was incapable of resisting the
+                        malady. The death of Mr. Hogg will cause great regret at Cairo and
+                        Alexandria for he counted a large circle of friends in both cities. He
+                        wasabn old resident at Alexandria and had lived here for many years during
+                        his official career in the Coastguards Administration, which he joined from
+                        the Royal Navy. A few years ago be retired from the service and embarked as
+                        a stockbroker in Cairo, where he had considerable success and was trusted by
+                        a large number of clients who had an unfailing confidence in the sterling
+                        integrity of his character and the keenness of his judgment in financial
+                        matters.</p>
+                    <p>He leaves a widow, the daughter of Mr. Peel of Alexandria, and a young family
+                        to deplore his loss.</p>
+                </div>
+                <div type="item">
+                    <head>THE IRISH DINNER.</head>
+                    <p>The Irish dinner was held last night at the Grand Continental Hotel under the
+                        presidency of Mr. J. Langley. The dinner was largely attended, over fifty
+                        members of the Irish colony in Cairo being present. After the toast of the
+                        King had been honoured, Mr. Langley, in giving the toast of Ireland,
+                        expressed his deep regret at the sad event which had led to the postponement
+                        of the dinner. By the death of Mr. Verschoyle he had lost a dear friend and
+                        colleague.</p>
+                    <p>The chairman then described the progress of the Irish dinner club, pointing
+                        out that it had trebled its number of members since the first dinner was
+                        given four years ago. He was glad to see so many members of the two famous
+                        Irish regiments, the Inniskilling Dragoons and the Inniskilling Fusiliers,
+                        who, he hoped would long remain in Cairo.</p>
+                    <p>He then called upon every Irishman present to drink the toast of Ireland. No
+                        further speeches were made, and the rest of the evening passed quietly, an
+                        informal smoking concerned being organised.</p>
+                    <p>Great credit is due to the secretary, Mr. L. B. Weldon, who spared no effort
+                        in organising the dinner, and we must not forget the band of the
+                        Inniskilling Fusiliers, who gave a fine selection of Irish airs.</p>
+                </div>
+                <div type="item">
+                    <head>H DE VRIES ET BOUTIGNY, LTD.,</head>
+                    <p>This concern was registered at Somerset House on March 25, by Farrar, Porter
+                        and Co, 2, Wardrobe Place, Doctor’s Commons, E.C Capital, £300,000, in
+                        297,500 Ordinary shares of £1 each and 50,000 Founder’s shares of Is each.
+                        Objects: To acquire, develop and extend the business carried on at Cairo as
+                        H. de Vries and Boutigny ; to adopt an agreement with the said firm, H.H. de
+                        Vries and H. Boutigny; and to carry on in the United Kingdom, Egypt and
+                        elsewhere, the business of stock and share dealers, brokers and jobbers,
+                        bankers, bullion merchants, financiers, cotton and produce dealers and
+                        brokers, dealers in land and real estate, concessionnaires, merchants,
+                        guarantors, etc. The signatories are:—</p>
+                    <p>
+                        <table rows="8" cols="3">
+                            <row role="label">
+                                <cell/>
+                                <cell>Shares Founders'</cell>
+                                <cell>Ord.</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>H.H, deVries and H. Boutigny, both of Cairo, stock brokers
+                                        and bankers</p>
+                                </cell>
+                                <cell>25,000</cell>
+                                <cell>—</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>E.F. Mills, 48, Arodene Road, Brixton Hill, S.W., rate
+                                        collector </p>
+                                </cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>S.W. Harrell, 269, Coldharbour Lane, Brixton, S.W., law clerk
+                                    </p>
+                                </cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>F W. Godwin, 481, Hanover Buildings, Tooley Street, S.E., law
+                                        clerk </p>
+                                </cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>C.J. Baker, 43, Lyndhurst Avenue, Streatham Hill, S. W., law
+                                        clerk </p>
+                                </cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>L. Stephen, 2, Wardrobe Place, Doctors’ Commons, E. C.,
+                                        solicitor</p>
+                                </cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>J.G. Relin, Cairo, secretary</cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                            <row>
+                                <cell>G.J. Bayspool Porter, 2, Wardrobe Place, Doctors’ Commons,
+                                    E.C., solicitor</cell>
+                                <cell>—</cell>
+                                <cell>1</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>Minimum cash subscription, 25 per cent, of the shares offered to the public.
+                        The first directors (to number not less than two nor more than nine) are:
+                        H.H. de Vries, H. Boutigny, E.F. Mills, S.W. Harrell, F.W. Godwin, C.J.
+                        Baker, L. Stephen, J.G Relin and G.J. Bayspool Porter. Qualification (except
+                        signatories while acting as provisional directors,) £10. Remuneration, £200
+                        each per annum and a share in the profits as undermentioned ; 5 per cent. of
+                        any available profits is to be carried to reserve until such reserve reaches
+                        10 per cent. of the paid-up capital, and afterwards 2½ per cent. of such
+                        profits (with a maximum of £10,000 in any year) is to be paid to each of the
+                        first managing directors as additional remuneration. The balance is to be
+                        applied first in payment of a cumulative preferential dividend of 5 per cent
+                        on the Ordinary shares. Of any surplus still remaining, 5 per cent. is to be
+                        paid to the directors as additional remuneration (with a maximum of £15,000
+                        in any one year), 50 per cent. is to be applied as further dividend on the
+                        Ordinary shares or carried to reserve, or otherwise dealt with as the
+                        company in general meeting may determine, and 45 per cent is to be divided
+                        amongst the holders of the Founders' shares.</p>
+                </div>
+                <cb n="5"/>
+                <div type="item">
+                    <head>END OF THE SEASON. LAST SAVOY DANCE.</head>
+                    <p>Though no dance was advertised for Saturday night at the Savoy, but rumours
+                        had gone abroad that the ballroom and orchestra would be available should
+                        they be wanted ; and as many people turned up for dinner and several big
+                        parties had been arranged, the evening terminated with quite one of the
+                        cheeriest dances of the season. Mrs. Berners was one of those who
+                        entertained quite a large party of friends, her guests including Lady
+                        Rogers, the Hon. C. Littleton, Capt. and Mrs. Rome, Miss Leverieh, Miss
+                        Hurley, Capt. and Mrs. Schreiber, Miss A. Reed, Miss Schreiber, Miss Yorke,
+                        Capt. Pardou, Mr. L Reid, Mr. F. Watson, Mr. Barton, Mr. K. Speir, and Mr.
+                        Barnard. Sir James also had a party, among whom were Mr. and Mrs. Appleton,
+                        Miss Fulpin, Miss Blyth, Col. Maberly, Col. Persse, Major Neil Haig, Capt.
+                        Mattheuws, Capt. Darrell, and Mr. Parker. Lord and Lady Carnarvon were
+                        entertaining Lord and Lady Lanesborough among their other guests. Mr. and
+                        Mrs. Smallman had a party of twelve, and Capt. and Mrs. Fitzgerald had
+                        guests with them, as had also Mr. and Mrs Peach. Mr. Horschitz was
+                        entertaining Mr. and Miss Bennett and Miss Ers ine Shaw ; and many of the
+                        officers of the various regiments were also dining in the restaurant. Quite
+                        a number of other residents arrived after dinner, and the dance, which was
+                        supposed to be quite an informal affair sans programmes, sans buffet,
+                        developed into one of the usual order, light refreshments being provided,
+                        and many suppers being ordered afterwards. Though there were plenty of
+                        dancers there was no crowd, and altogether this impromptu affair proved most
+                        successful.</p>
+                    <p>We hear that there are to be no more dances this season at the Semiramis
+                        Hotel ; and it is probable that the one at Mena House this week will be the
+                        last of the series. Those on Monday night at Shepheard’s may be continued
+                        for some weeks yet, but it is not likely that there will be any more at
+                        Ghezireh after this week.</p>
+                </div>
+                <div type="item">
+                    <head>STRIKE OF COAL HEAVERS</head>
+                    <p>Our Port Said correspondent writes :—The coal discharging Arabs at this port
+                        have gone on strike, their demand being an increase in pay of 25 cts. per
+                        ton discharged. Some eight or nine colliers are in the harbour waiting to
+                        discharge, and the coal supply in the lighters is rapidly becoming
+                        exhausted. It is feared that influence is being brought to bear upon the
+                        coal-loading Arabs in order to make the strike general and that serious
+                        results may ensue.</p>
+                    <p>Port Said, Tuesday.</p>
+                    <p>The bunkering Arabs have joined the strike and the ships are compelled to
+                        coal with their own crews.</p>
+                </div>
+                <div type="item">
+                    <head>EASTER DAY AT ST. MARKS.</head>
+                    <p>The Easter Festival celebrated on Sunday last was encouraging from every
+                        point of view. At the first service, 7 a.m, there were 19 communicants, at
+                        the 8 o’clook service 80, and at the midday service 72, a total of 171
+                        compared with 141 in the previous year This must be greatly appreciated by
+                        Canon Ward, the Chaplain. The musical part of the services was excellently
+                        rendered and showed the care the choir had taken in rehearsing the music.
+                        The morning service opened with Hymn 134 sung to the well known “Ancient and
+                        Modern” tune, but whose author is unknown. The “Te Deum” by Vine Hall and
+                        the Choral Communion Service by Baptiste Calkin were carefully given and
+                        with good precision. We hope the choir will repeat these. The anthem in the
+                        morning was Myles Foster’s “As it began to dawn towards the first day of the
+                        week, ” which concludes with Bishop Wordsworth’s Hymn “ Allelulia !
+                        Alleiulia ! Hearts and voices heavenward raise, ” set to beautiful music by
+                        Foster. The solos were taken by Miss Maud Callender and Mr. Percy Smith,
+                        both being in excellent voice and singing well. The choir also acquitted
+                        themselves well. At the close of the morning service the National Anthem was
+                        sung. The Anthem “As it began to dawn” was repeated in the evening, when
+                        Vine Hall’s “Magnificat” and “Nunc Dimittis” were beautifully given and
+                        reflected credit on the careful handling by the choir. The organist, Mr.
+                        Heaton gave valuable assistance throughout the day and at the close of each
+                        service gave Gaul’s “Soldiers' March,” from the Holy City.” Special mention
+                        is due to the willing helpers, who so tastefully and appropriately decorated
+                        the Church. Miss Dodd was responsible for the pulpit; Miss Morrison and Miss
+                        Barwell for the font; Mrs Eyre and Miss Spurgeon for the lectern; Mrs. and
+                        Miss Roberts for the choir stalls : Miss Batcheller for the chapel; Mrs
+                        Algernon Ward for the altar gases. Among those who sent plants and flowers
+                        were Mmes. Borton, Crafton, Dickson, Foster, Hopkinson, Picton, Preston, W.
+                        T Smith, and Messrs. Batcheller, Coates, Morrison, and Messrs. Cornish and
+                        Ebell.</p>
+                    <p>The offertory for the poor at the early services amounted to P T. 600 in
+                        addition to the Easter offering of P.T. 5,623 whioh was presented as usual
+                        to the assistant chaplain.</p>
+                </div>
+                <div type="advert" xml:id="deg-ad-nkh03">
+                    <head>NEW KHEDIVIAL HOTEL CAIRO.</head>
+                    <p>Family Hotel. Built in 1904. Between Shepheard's Hotel and the Railway
+                        Station. Electric Light. Lift.</p>
+                    <p>Sanitary arrangements up to-date. Open all the year round. Special terms for
+                        Government officials and Army of Occupation</p>
+                    <p>NEW MANAGEMENT. <measure type="indexNo">29242-26-11-90</measure></p>
+                </div>
+                <cb n="6"/>
+                <div type="item" element="social">
+                    <head>PERSONAL AND SOCIAL.</head>
+                    <p>H.R.H. Landgraf of Hess passed through Port Said to-day on the P. &amp; O.
+                        mail boat Marmora, bound from Colombo to London via Marseilles. His Highness
+                        entertained a party of friends at the Eastern Exchange.</p>
+                    <p>The Sirdar is expected to arrive at Khartoum to-day or to-morow.</p>
+                    <p>Leave of absence from the 8th inst. to July has been granted to Major E
+                        Fetherstonhaugh, with permission to travel in Turkey, and to Captain D.
+                        Mathers.</p>
+                    <p>Lieutenant J H. J. Phillips, 3rd Battalion Coldstream Guards, and Mrs.
+                        Phillips will embark for England on the Orotava on the 8th inst.</p>
+                    <p>Sir Thomas Henry Elliot, K.C.B., whose death is reported by a Reuter's
+                        telegram, was born in London on September 7, 1854, and was the eldest son of
+                        the late Thomas Henry Elliot of Rue Ruhmkorff, Paris. He was educated
+                        privately and at the age of eighteen he entered the Inland Revenue
+                        Department by open competition. He was private Secretary to the Rt. Hon.
+                        C.T. Ritchie, when the latter was president of the Local Government Board,
+                        and for six years he was member of the Royal Commission on Local Taxation.
+                        Since 1892 he had been Secretary to the Board of Agriculture and Fisheries.
+                        He was created C B. in 1897 and and in 1902 was made K. C. B. He married a
+                        daughter of the late Jamas Rowe in 1880.</p>
+                </div>
+                <div type="item">
+                    <head>M. PUAUX IN EGYPT.</head>
+                    <p>M. George Vayssié continues his career as a humorist of a high order.
+                        Saturday’s “Journal du Cairo” contains a really brilliant parody of M.
+                        Puaux’s letters to the “Temps” from which we take the following passage.</p>
+                    <p>“The famous Paris journal “La Nuit” has just despatched to Egypt the equally
+                        famous reporter Dupont, the well known globe-trotter who discovered Naples
+                        and Vesuvius in 1906. We have been lucky enough to have communicated to us
+                        the eminent M. Dupont’s first letter to “La Nuit” This is rare good fortune.
+                        We even give our readers the first view, for the article will be published
+                        in “La Nuit” before they appear in Paris.</p>
+                    <p>“Notes by the way. <hi rend="italic">At Sea</hi>. The sea is really a very
+                        curious thing. I don’t really know why so much merriment has been expended
+                        on Marshal MacMahon. In the presence of the ocean he ejaculated “What a lot
+                        of water" and yet that is the cry that rises to one's lips in face of the
+                        boundless horizon........................ There is even too much of it, for
+                        excess is a defect. Shipwrecks in fact can only be attributed to a
+                        super-abundanoe of water ! The victims of the deep nearly always perish
+                        through submersion. Cases like the “Iena” disaster are decidedly rare. There
+                        is too much water below and around them. If there were less water below it
+                        the ship could ride out the storm resting on the bottom—if these were less
+                        all around the shipwrecked could easily gain dry land.................
+                        ...</p>
+                    <p><hi rend="italic">In sight of the shore of Africa.</hi> I have just
+                        experienced a strong emotion. A sort of illuminated tower rises over there
+                        from the sea. I ask what it is. They reply “c’est Le Phare d’Alexandrie.”
+                        Antiquities exercise a real fascination upon me. There is the celebrated
+                        monument which since Alexander’s days has thrown its beams over the
+                        waters...</p>
+                    <p><hi rend="italic">At Alexandria</hi>. Must confess my self quite astonished
+                        by my arrival at Alexandria.</p>
+                    <p>Quite a European town. Good quays, docks and even carriages. Th-employes are
+                        decently dressed and appear to be able to write. In the streets few or none
+                        are completely naked. At the hotel my astonishment redoubles......On a table
+                        I find a copy of “La Nuit” Who would have believed it! They read “La Nuit”
+                        at Alexandria! And here are the “Figaro,” “La Vie Parisienne.” Some
+                        traveller must have left them here.…. </p>
+                    <p><hi rend="italic">The Great Interview</hi>. By the exercise of great skill I
+                        have at last obtained an interview with H H. the Khedive. I arranged the
+                        scheme of my questions with address, and thanks to my methods, the character
+                        and intentions of the Sovereign appear under a blinding light...I asked H.
+                        H. the Khedive, Abbas Hilmi the following questions.</p>
+                    <p>“ Is it true your Highness that you have prepared a coup d’etat against
+                        England for the night of March 31—April 1 next.</p>
+                    <p>“ This report is quite unfounded—I have prepared no such coup, for the
+                        excellent reason that I cannot. I should obviously be delighted to show Lord
+                        Cromer to the door, but as there is a chance of reciprocity being practised
+                        in these matters I prefer to abstain.” </p>
+                    <p>“ Is it true that your Highness is a fanatic and loathes Europeans. ?</p>
+                    <p>“ Not a shade of fanaticism is in me. As a Moslem I naturally set the Moslems
+                        above all other peoples, and their religion above all other religions which
+                        are utter impostures. Were I an absolute monarch I should obviously deprive
+                        myself of the assistance of European gentleman, if not of European ladies,
+                        for I know how to make destructions between Europeans well enough. But I am
+                        not an absolute monarch.</p>
+                    <p>“ Is it a fact, that your Highness is wasting your civil list and personal,
+                        fortune in rash extravagance. ”</p>
+                    <p>“ That is not strictly true. I myself indulge in strict economy, for a
+                        Sovereign should set the example of thrift, parsimony and good bargains to
+                        his people. Some princes of my family do not seem to look at things in the
+                        same light, so I have been obliged to retain in my possession a part of
+                        their allowances, of which they made the most deplorable use. Morality !
+                        that is my motto.</p>
+                    <p>(<hi rend="italic">To be Continued</hi>. – Sometime). </p>
+                </div>
+            </div>
             <div type="page" n="4"> </div>
             <div type="page" n="5"> </div>
             <div type="page" n="6"> </div>
